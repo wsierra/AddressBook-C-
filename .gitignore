@@ -20,7 +20,10 @@
 *.lai
 *.la
 *.a
-*.lib
+*.cbp
+*.bmarks
+*.depend
+*.layout
 
 # Executables
 *.exe
